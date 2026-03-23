@@ -1,2 +1,2 @@
 # sql-practice
-HackerRank SQL solutions
+SQL solutions
