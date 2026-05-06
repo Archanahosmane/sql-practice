@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/binary-search-tree-1/problem
+/* https://www.hackerrank.com/challenges/binary-search-tree-1/problem */
 
 SELECT N,
     CASE 
